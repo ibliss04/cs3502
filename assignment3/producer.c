@@ -1,6 +1,8 @@
 // ============================================
 // producer.c - Producer process starter
 // ============================================
+// CS3502 Sec 04 Ian Bliss
+
 #include "buffer.h"
 
 // Global variables for cleanup
